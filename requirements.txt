@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+diffusers
+transformers
+accelerate
+safetensors
+pandas
+numpy
+Pillow
+tqdm
+opencv-python-headless
+jupyterlab

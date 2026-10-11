@@ -1,0 +1,12 @@
+{
+  "library": {
+    "prepared_images": 47,
+    "caption_rows": 51,
+    "images_without_caption": []
+  },
+  "administration": {
+    "prepared_images": 30,
+    "caption_rows": 30,
+    "images_without_caption": []
+  }
+}
