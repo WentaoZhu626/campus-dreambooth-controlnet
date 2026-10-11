@@ -1,0 +1,20 @@
+# Local environments and credentials
+.env
+.env.*
+!.env.example
+environment/
+.environment/
+.venv/
+venv/
+env/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+~$*
+.~*
+# Downloaded and trained model weights
+models/
+*.safetensors
+*.ckpt
+*.pt
+*.pth
